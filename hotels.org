@@ -3,9 +3,9 @@
 * AirBnb
 
   1. [[https://www.airbnb.com/rooms/9248610?adults=2&location=Caromb&check_in=2021-10-23&check_out=2021-10-24&translate_ugc=false&federated_search_id=7b576bf6-4f05-480d-9afa-7b2f3e6f1073&source_impression_id=p3_1633681075_5bOIgGMATEWX5C3G&guests=1][Une chambre face au Géant de Provence]]
-     2 guests,  · 1 bedroom,  · 1 bed,  · 1 shared bath
-     43 euro par nuit
-     [[https://goo.gl/maps/57cnSEAU6VURquPr5][Saint-Pierre-de-Vassols, Provence-Alpes-Côte d'Azur, France]]
+     - 2 guests,  · 1 bedroom,  · 1 bed,  · 1 shared bath
+     - 43 euro par nuit
+     - [[https://goo.gl/maps/57cnSEAU6VURquPr5][Saint-Pierre-de-Vassols, Provence-Alpes-Côte d'Azur, France]]
 
   2. [[https://www.airbnb.com/rooms/42093002?adults=2&location=Caromb&check_in=2021-10-23&check_out=2021-10-24&translate_ugc=false&federated_search_id=2651c117-a346-4aca-8d91-f101d4493ab7&source_impression_id=p3_1633683363_y6rsdmbc0AGSUvrh&guests=1][Le Barroux : Chambre D’Hôtes Médiévales]]
      - [[https://goo.gl/maps/6ErDb93jYP5cTvdr6][Le Barroux, Provence-Alpes-Côte d'Azur, France]]
@@ -36,24 +36,24 @@
 * D'autre (trouvé sur google maps) - à appeler pour les disponibilités
 
   1. Clos Marjolie
-     [[https://goo.gl/maps/rWrtLQfyPDYsVXYXA][294, route de Beaumes-de-Venise, 84330, Caromb]]
+     - [[https://goo.gl/maps/rWrtLQfyPDYsVXYXA][294, route de Beaumes-de-Venise, 84330, Caromb]]
      - Tel.: +33676670029
 
   2. [[https://la-figue-noire.business.site/?utm_source=gmb&utm_medium=referral][La Figue Noire]]
-     [[https://g.page/la-figue-noire?share][310 Rte de Mazan, 84330 Caromb]]
+     - [[https://g.page/la-figue-noire?share][310 Rte de Mazan, 84330 Caromb]]
      - Tel.: +33766611339
 
   3. [[https://goo.gl/maps/f9weK7YHCrK58CsH7][Les Figues]]
-     [[https://goo.gl/maps/f9weK7YHCrK58CsH7][412 Chem. Saint-Ambroise, 84330 Caromb]]
+     - [[https://goo.gl/maps/f9weK7YHCrK58CsH7][412 Chem. Saint-Ambroise, 84330 Caromb]]
      - Tel.: +33652315984
 
   4. [[https://goo.gl/maps/JoFUALSxsQiRTDeVA][Les Vents D'Angles]]
-     Tel.: +33688366495
-     [[https://goo.gl/maps/JoFUALSxsQiRTDeVA][235 Chem. de Crillon, 84330 Caromb]]
+     - Tel.: +33688366495
+     - [[https://goo.gl/maps/JoFUALSxsQiRTDeVA][235 Chem. de Crillon, 84330 Caromb]]
 
   5. [[https://goo.gl/maps/5nA11JeFzYUuG79N6][B&B Ventoux Caromb Gite]]
      - probablement pas de disponibilités
-     [[https://www.google.com/maps/place/B%26B+Ventoux+Caromb+Gite/@44.102496,5.0982239,14.31z/data=!4m13!1m2!2m1!1shébergement+near+Caromb!3m9!1s0x12ca771b13122921:0xe64115753ec053cc!5m2!4m1!1i2!8m2!3d44.1018091!4d5.113669!15sChhow6liZXJnZW1lbnQgbmVhciBDYXJvbWKSARFiZWRfYW5kX2JyZWFrZmFzdA!16s%2Fg%2F11f66h4rmp][84330 Lieu dit "Les Malagrones, 799 Rte de Mazan, 84330 Caromb]]
+     - [[https://www.google.com/maps/place/B%26B+Ventoux+Caromb+Gite/@44.102496,5.0982239,14.31z/data=!4m13!1m2!2m1!1shébergement+near+Caromb!3m9!1s0x12ca771b13122921:0xe64115753ec053cc!5m2!4m1!1i2!8m2!3d44.1018091!4d5.113669!15sChhow6liZXJnZW1lbnQgbmVhciBDYXJvbWKSARFiZWRfYW5kX2JyZWFrZmFzdA!16s%2Fg%2F11f66h4rmp][84330 Lieu dit "Les Malagrones, 799 Rte de Mazan, 84330 Caromb]]
      - Tel.: +31655547107
 
   6. [[https://goo.gl/maps/ipXjhwFFu9dA5w399][le mas de la tortue]]

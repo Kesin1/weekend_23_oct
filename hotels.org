@@ -35,7 +35,7 @@
    
 * D'autre (trouvé sur google maps) - à appeler pour les disponibilités
 
-  1. Clos Marjolie
+  1. [[http://www.closmarjolie.com][Clos Marjolie]]
      - [[https://goo.gl/maps/rWrtLQfyPDYsVXYXA][294, route de Beaumes-de-Venise, 84330, Caromb]]
      - Tel.: +33676670029
 
